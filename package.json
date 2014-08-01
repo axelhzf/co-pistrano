@@ -1,0 +1,11 @@
+{
+  "name": "co-pistrano",
+  "version": "0.0.1",
+  "dependencies": {
+    "assert": "^1.1.1",
+    "co": "^3.1.0",
+    "co-exec": "^1.1.0",
+    "debug": "^1.0.4",
+    "ssh2": "^0.3.4"
+  }
+}
